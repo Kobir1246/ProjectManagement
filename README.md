@@ -124,7 +124,7 @@ flutter run
 
 ## 📸 Screenshots
 ![Home Screen](Screenshots/home.png)
-![Project Screen](Screenshots/project.png)
+![Project Screen](Screenshots/projects.png)
 
 
 ---
