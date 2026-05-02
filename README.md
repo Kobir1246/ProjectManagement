@@ -124,14 +124,7 @@ flutter run
 
 ## 📸 Screenshots
 
-(Add screenshots here after uploading)
 
-```id="img1"
-![Home Screen](screenshots/home.png)
-![Project Screen](screenshots/project.png)
-![Tasks](screenshots/tasks.png)
-![Events](screenshots/events.png)
-```
 
 ---
 
